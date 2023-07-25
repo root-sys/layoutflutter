@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a representation of the layout features of flutter .
 
-A few resources to get you started if this is your first Flutter project:
+Here rows and columns along with containers and the widgets properties are used to create the layout.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/root-sys/layoutflutter/assets/54510055/6aa5b695-f0a5-4b89-b853-eba1b0fa508d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
